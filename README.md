@@ -11,4 +11,4 @@ src : notebook sur l'analyse des données
 
 
 
-data : relevé de glycémie sur capteur - Freestyle libre
+data : Taux de glycémie sur capteur - Freestyle libre
