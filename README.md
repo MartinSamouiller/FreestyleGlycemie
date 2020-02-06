@@ -1,6 +1,6 @@
 # Freestyle Glycemy + Fitbit 
 
-Data analysis for glycemy data (Type 1 Diabetes)
+Data analysis for Glucose Data (Type 1 Diabetic)
 
 data : 
 - Glycemy sensor - Freestyle libre
